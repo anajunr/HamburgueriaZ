@@ -30,7 +30,7 @@ A tela principal exibe a logo no topo, seguida dos campos de preenchimento, sele
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/HamburgueriaZ.git
+git clone https://github.com/anajunr/HamburgueriaZ.git
 ```
 
 2. Abra o projeto no **Android Studio**
